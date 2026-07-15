@@ -8,6 +8,7 @@ const taskList = document.getElementById("taskList");
 
 const searchInput = document.getElementById("searchInput");
 
+
 const totalTasks = document.getElementById("totalTasks");
 
 const completedTasks =
